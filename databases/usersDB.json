@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user": "user",
+      "name": "Петр Петров",
+      "password": "$2b$04$j8ILCexB0Dj.L1HFUS5LnOSmyRYHS630jpKzmorP5DHI9BreIf.Za",
+      "role": "USER"
+    },
+    {
+      "id": 2,
+      "user": "test",
+      "name": "Петр Петров",
+      "password": "$2b$04$QqehNSoveFe4Aogf1rMqZeTD8/oRwdHh93qL4IrYit.R75dZpAU22",
+      "role": "USER"
+    },
+    {
+      "id": 3,
+      "user": "admin",
+      "name": "Иван Иванов",
+      "password": "$2b$04$5yYcr8imz0jqjKf8MTw5aOya6YicdqWwcsm3H0uGCHc7IkvRjFLFm",
+      "role": "ADMIN"
+    }
+  ]
+}
